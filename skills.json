@@ -1,0 +1,75 @@
+[
+    {
+        "name": "Machine Learning",
+        "icon": "https://img.icons8.com/external-smashingstocks-basic-outline-smashing-stocks/53/external-Machine-Learning-machine-learning-icon-smashingstocks-basic-outline-smashing-stocks-44.png"
+    },
+    {
+        "name": "Deep Learning",
+        "icon": "https://img.icons8.com/external-becris-flat-becris/64/external-deep-learning-artificial-intelligence-becris-flat-becris.png"
+    },
+    {
+        "name": "NLP",
+        "icon": "https://img.icons8.com/external-filled-outline-design-circle/64/external-NLP-natural-language-processing-filled-outline-design-circle.png"
+    },
+      {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/python--v1.png"
+    
+    },
+    {
+        "name": "Numpy",
+        "icon": "https://img.icons8.com/color/48/numpy.png"
+    },
+    {
+        "name": "OpenCV",
+        "icon": "https://img.icons8.com/color/48/opencv.png"
+    },
+    {
+        "name": "Tensorflow",
+        "icon": "https://img.icons8.com/color/48/tensorflow.png"
+    },
+    {
+        "name": "Pandas",
+        "icon": "https://img.icons8.com/color/48/pandas.png"
+    },
+    {
+        "name": "Oracle",
+        "icon": "https://img.icons8.com/color/48/oracle-logo.png"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    },
+    {
+        "name": "Firebase",
+        "icon": "https://img.icons8.com/color/48/000000/firebase.png"
+    }, 
+    {
+        "name": "Java",
+        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+    },
+    {
+        "name": "Android",
+        "icon": "https://img.icons8.com/fluency/48/000000/android-os.png"
+    },
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+    },
+    {
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+    {
+        "name": "PHP",
+        "icon": "https://img.icons8.com/offices/48/000000/php-logo.png"
+    }, 
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    }
+]
